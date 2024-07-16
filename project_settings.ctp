@@ -2,7 +2,7 @@
 echo $this->Html->script(array('front_js/Plugins/jquery-ui','client_js/Plugins/datapicker/jquery-hex-colorpicker'));
 echo $this->Html->css(array('front_css/jquery-ui','client_css/custom_checkbox_radio','client_css/plugins/datepicker/jquery-hex-colorpicker'));
 ?>
-
+test
 <div class="bg-white section-padding display-setting">
 	<div class="site-header-setting flex-row">
 		<div class="row">
